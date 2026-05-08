@@ -76,4 +76,4 @@ java Main
 [Add YouTube link here before submission]
 
 ## GitHub Repository
-(https://github.com/Sumairfaiz/VolleyballTournamentManager#demo-video this github url righr)
+(https://github.com/Sumairfaiz/VolleyballTournamentManager#demo-video)
